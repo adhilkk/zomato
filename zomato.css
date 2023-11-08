@@ -1,0 +1,391 @@
+body{
+    margin: 0;
+}
+
+.section1{
+height: 4303px ;
+width: 100%;
+background-color: #f8f8f8;
+float: left;
+}
+.bgi{
+    width: 1519.2px;
+    height: 570px;
+    float: left;
+    z-index: 0;
+
+}
+.navbart{
+    font-size: 18px;
+    font-family:  sans-serif;
+    color: #FFFFFF;
+    float: left;
+    padding-left: 887px;
+    margin-top: -544px;
+}
+.navbar2{
+    padding-left: 160px;
+}
+
+.navbar3{
+    padding-left: 250px;
+}
+.navbart1:hover,.navbar2:hover,.navbar3:hover{
+    cursor: pointer;
+}
+.maintext{
+    
+    margin-top: -350px;
+
+    width: 1519.2px;
+    height: 100px;
+    float: left;
+    
+}
+.maintext1{
+    margin-top: 1px;
+    padding-top: 1px;
+    margin-left: 118px;
+}
+.maintext1s{
+    height: 60px;
+    position: relative;
+    padding-left: 500px;
+    z-index: 1;
+    float: left;
+}
+.maintext2{
+    width: 600px;
+    height: 86.4px;
+    color: white;
+    font-size: 36px;
+    margin-left: 423px;
+    margin-top: 94px;
+    text-align: center;
+    font-family: sans-serif;
+    
+}
+.maintext2s{
+    padding-left: 63px;
+    letter-spacing: 1px;
+  
+}
+.section2{
+    width: 1519.2px;
+    height: 3250px;
+    background-color:white;
+    display: flex;
+    float: left;
+justify-content: center;
+
+}
+.section22{
+    width: 1100px;
+    height: 3250px;
+    background-color:white;
+    float: left;
+
+}
+.s2heading{
+    width: 1100px;
+    height: 43.2px;
+    background-color: #FFFFFF;
+    padding-top: 42px;
+    display: flex;
+    text-align: center;
+    padding-left: 0px;
+
+}
+.htext1{
+    font-size: 36px;
+    font-weight: 100;
+    font-family: sans-serif;
+    color: #1c1c1c;
+    margin-top: 0px;
+    margin-left: 296px;
+    margin-right: 10px;
+    letter-spacing: 1px;
+}
+.htext2{
+    font-size: 36px;
+    font-weight: 100;
+    font-family: sans-serif;
+    color: #1c1c1c;
+    margin-top: 0px;
+    margin-left: 5px;
+    margin-right: 10px;
+    letter-spacing: 1px;
+}
+.indiaimgs{
+    width: 75%;
+    height: 80%;
+}
+.descptn{
+    width: 1100px;
+    height: 90px;  
+    margin-left: -150px;
+    padding-top:22px;
+    background-color: #FFFFFF;
+    
+}
+.descptns{
+    font-size: 20px;
+    font-family: sans-serif;
+    color: #696969;
+    text-align: center;
+    padding-left: 240px;
+    line-height: 1.5;
+}
+.section23{
+    width: 1100px;
+    height: 3034px;
+    background-color:white;
+    margin-top: 20px;
+    display: flex;
+    float: left;
+    
+}
+.ssss {
+    position: relative;
+    width: 100%;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 0;
+    max-width: 33.3333%;
+    padding: 0px 13.3333px 20px 0px;
+}
+.section23btn1{
+    display: flex;
+    margin-top: 70px;
+}
+.bt1h1{
+    display: grid;
+    width: 353.34px;
+    height: 65.6px;
+    background-color: white;
+    border-radius: 10px;
+    margin-right: 20px;
+    border: 1px solid rgb(232,232,232);
+    box-shadow: rgba(28, 28, 28, 0.08) 0px 1.42623px 2.85246px;
+}
+.bt1{
+    width: 353.34px;
+    height: 65.6px;
+    margin-bottom: 35px;
+    background-color: white;
+    border-radius: 10px;
+    margin-right: 20px;
+    border: 1px solid rgb(232,232,232);
+    box-shadow: rgba(28, 28, 28, 0.08) 0px 1.42623px 2.85246px;
+    
+}
+.bt1:hover{
+    cursor: pointer;
+    box-shadow: rgba(28, 28, 28, 0.08) 0px 10px 20px;
+}
+.bt1t{
+    color: #1c1c1c;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-left: 25px;
+}
+
+.bt1t1{
+    margin-top: -37px;
+    margin-left: 317px;
+    width: 5px;
+    height: 5px;
+
+}
+.section23btn2{
+    display: flex;
+    margin-top: 173px;
+    margin-left: -1124px;
+}
+.section23btn3{
+    display: grid;
+    margin-top: 280px;
+    margin-left: -1125px;
+}
+.sectionbottom{
+    width: 1100px;
+    height: 480.81px;
+    background-color: #f8f8f8;
+    float: left;
+    margin-top: 3252px;
+    margin-left: -1100px;
+
+}
+.sb1{
+    width:1100px ;
+    height: 37.67px;
+    background-color: #f8f8f8;
+    float: left;
+    margin-top: 3304px;
+    margin-left: -1100px;
+}
+.bbutton1{
+    width: 109.36px;
+    height: 37.61px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    margin-left: 850px;
+    margin-top: -32px;
+    border: 1px solid #1c1c1c;
+    
+}
+.bbutton2{
+    width: 109.36px;
+    height: 37.61px;
+    background-color: #f8f8f8;
+    border-radius: 10px;
+    margin-left: 990px;
+    margin-top: -37px;
+    border: 1px solid #1c1c1c;
+    
+}
+.bbutton2:hover{
+    cursor: pointer;
+}
+.bbindia{
+    width: 22px;
+    height: 14.67px;
+    margin-top: 10px;
+    margin-left: 5px;
+
+}
+
+.bbtext1{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #1c1c1c;
+    margin-top: -20px;
+    margin-left: 35px;
+
+}
+.bbarrow{
+    margin-top: -38px;
+    margin-left: 86px;
+}
+.bbearth{
+    margin-top:10px ;
+    margin-left: 4px;
+}
+.bbtext2{
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #1c1c1c;
+    margin-top: -20px;
+    margin-left: 22px;
+
+}
+.bottom2{
+    width: 1100px;
+    height: 212.4px;
+    background-color: #f8f8f8;
+    margin-top: 3379px;
+    margin-left: -1100px;
+    display: flex;
+}
+.about{
+    width: 201.66px;
+    display: grid;
+    margin-top:-15px;
+    margin-left: 8px;
+
+}
+.aboutt{
+    font-size: 14px;
+    color: #000;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+}
+.aboutt1{
+    font-size: 14px;
+    color: #000;
+    font-family: sans-serif;
+    letter-spacing: 3px;
+    margin-top: -50px;
+    margin-left: px;
+}
+.about1{
+    width: 201.66px;
+    margin-top: 4px;
+}
+.about2{
+    width: 201.66px;
+    margin-top: 4px;
+    margin-left: 72px;
+}
+.about3{
+    width: 201.66px;
+    margin-top: 4px;
+    margin-left: 50px;
+}
+.about1t{
+    font-size: 14px;
+    font-family: sans-serif;
+    color: #696969;
+    margin-top: -7px;
+    
+}
+.about2t{
+    font-size: 14px;
+    font-family: sans-serif;
+    color: #696969;
+    margin-top: -34px;
+    
+}
+.about3t{
+    font-size: 14px;
+    font-family: sans-serif;
+    color: #696969;
+    margin-top: -25px;
+}
+.about4t{
+    font-size: 14px;
+    font-family: sans-serif;
+    color: #696969;
+    margin-top: -50px;
+}
+.about2t:hover ,.about4t:hover ,.about3t:hover ,.about1t:hover{
+    cursor: pointer;
+}
+.ssbutton1{
+    
+    display: flex;
+}
+.ssbutton1:hover{
+    cursor: pointer;
+}
+.ssb{
+   
+    padding-left: 15px;
+    margin-top: -50px;
+    margin-left: -10px;
+}
+.iosbutton , .androidbutton{
+    margin-left: -50px;
+}
+.iosbutton:hover , .androidbutton:hover{
+    cursor: pointer;
+}
+.hrb{
+    width: 1100px;
+    height: 50px;
+    margin-top: 3630px;
+    margin-left: -1100px;
+}
+.bottomlasttext{
+    width: 1100px;
+    height: 34px;
+    margin-top: 3670px;
+    margin-left: -1100px;
+}
+.lasttext{
+    font-size: 13px;
+    font-family: sans-serif;
+    color: #4F4F4F;
+    margin-top: -6px;
+    letter-spacing: 0.3px;
+}
